@@ -5,7 +5,6 @@ I'm an **Information Systems** student passionate about building efficient solut
 ### 🚀 About Me
 - 🎓 Currently studying Information Systems at **Unisul**.
 - 💻 I'm currently working on improving my skills in **Java** and **Object-Oriented Programming**.
-- 🌱 Learning about Databases and Software Engineering.
 - 🎯 Goal: To become a Full Stack Developer.
 
 ### 🛠 Tech Stack
